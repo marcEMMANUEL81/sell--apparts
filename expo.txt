@@ -1,0 +1,91 @@
+/*------------------EXPO SUR VARNISH------------------*/
+
+Varnish Cache est un logiciel open source de mise en cache HTTP. Il a été développé en 2006 par Poul-Henning Kamp, 
+un ingénieur danois en informatique. Varnish Cache est conçu pour améliorer les performances des sites web en mettant 
+en cache les pages et en les servant directement aux visiteurs. Le logiciel est utilisé par de nombreux sites web à 
+forte circulation, notamment le New York Times, Reddit et Facebook.
+
+Varnish Cache est écrit en langage de programmation C et est conçu pour fonctionner comme un proxy inversé. 
+Il s'installe en amont du serveur web, intercepte les requêtes HTTP entrantes et renvoie des réponses à partir de sa 
+propre mémoire cache. Varnish Cache est compatible avec les protocoles HTTP 1.0 et 1.1.
+
+Le logiciel Varnish Cache est conçu pour être hautement extensible et configurable. Il utilise une configuration basée 
+sur le langage de programmation VCL (Varnish Configuration Language), qui permet aux administrateurs système de définir 
+des règles de mise en cache pour des sites web spécifiques. Les règles VCL peuvent être utilisées pour définir des 
+comportements de mise en cache personnalisés en fonction de l'URL de la page, des en-têtes HTTP et d'autres paramètres.
+
+Varnish Cache est capable de traiter des centaines de milliers de requêtes par seconde et peut être configuré pour 
+s'exécuter sur des serveurs en cluster pour une haute disponibilité. Il dispose également d'une API qui permet aux 
+développeurs d'interagir avec le logiciel à partir de leur propre code.
+
+En plus de la mise en cache de contenu statique, Varnish Cache peut également être utilisé pour améliorer les performances 
+des applications web dynamiques. Le logiciel prend en charge la mise en cache d'applications web basées sur PHP, Java, Ruby 
+et d'autres langages de programmation courants.
+
+En résumé, Varnish Cache est un logiciel open source de mise en cache HTTP qui est conçu pour améliorer les performances 
+des sites web à forte circulation. Il est hautement configurable, extensible et compatible avec les protocoles HTTP 1.0 
+et 1.1. Il peut être utilisé pour mettre en cache des pages statiques et des applications web dynamiques, et peut être 
+exécuté sur des serveurs en cluster pour une haute disponibilité.
+
+
+
+
+/*------------------EXPO SUR  LES ACTEURS DE LA METHODOLOGIE AGILE DANS LA METHODE SCRUM------------------*/
+
+La méthodologie Agile repose sur une approche itérative et collaborative de la gestion de projet, tandis que Scrum est 
+une méthode Agile populaire qui implique une équipe auto-organisée travaillant en sprints pour atteindre des objectifs 
+spécifiques. Voici les différents rôles dans la méthode Scrum :
+
+Product Owner : Le propriétaire de produit est responsable de la définition des objectifs du projet et de la création 
+et de la gestion du backlog de produit. Il est le point de contact principal avec les parties prenantes et s'assure 
+que l'équipe travaille sur les fonctionnalités les plus prioritaires.
+
+Scrum Master : Le Scrum Master est responsable de faciliter le processus Scrum, d'aider l'équipe à se concentrer sur 
+ses objectifs et de s'assurer que les obstacles sont éliminés. Il est le gardien du processus Scrum.
+
+L'équipe de développement : L'équipe de développement est responsable de réaliser les tâches du backlog de produit. 
+Elle est auto-organisée et pluridisciplinaire, ce qui signifie que chaque membre de l'équipe est capable de travailler 
+sur n'importe quelle tâche nécessaire pour atteindre l'objectif de sprint.
+
+Ces trois rôles sont considérés comme essentiels dans la méthode Scrum. Toutefois, il est possible que l'équipe de 
+développement soit composée de sous-groupes, appelés "sous-équipes", qui ont des responsabilités spécifiques.
+
+
+
+
+/*------------------CITEZ AU MOINS TROIS METHODES AGILE------------------*/
+
+Scrum : C'est une méthode agile populaire pour la gestion de projet, basée sur des itérations courtes (appelées sprints) 
+et un processus de développement collaboratif.
+
+Kanban : Cette méthode de gestion de projet se concentre sur la visualisation de l'état d'avancement du travail à travers 
+un tableau Kanban, avec des limites de travail en cours (WIP) pour maintenir un flux de travail régulier.
+
+Extreme Programming (XP) : Cette méthode se concentre sur le développement de logiciels de haute qualité grâce à des 
+pratiques telles que la programmation en binôme, les tests automatisés et l'intégration continue.
+
+Lean : La méthode Lean se concentre sur l'identification et l'élimination des gaspillages dans les processus de développement, 
+en se concentrant sur l'ajout de valeur pour les utilisateurs.
+
+Crystal : Cette méthode met l'accent sur l'adaptation à l'environnement et aux conditions de développement uniques de chaque 
+projet, en utilisant des pratiques agiles telles que la communication fréquente et la collaboration.
+
+
+
+
+/*------------------A QUELLE METHODOLOGIE DE GESTION DE PROJET AGILE POURRAIT-ELLE S'OPPOSER ?------------------*/
+
+
+Il n'y a pas une seule méthode de gestion de projet qui s'oppose aux méthodologies agiles. Cependant, certaines méthodologies 
+traditionnelles de gestion de projet, comme la méthode en cascade (waterfall), peuvent être considérées comme opposées à 
+l'approche agile.
+
+La méthode en cascade est une approche linéaire et séquentielle de gestion de projet, où chaque phase du projet doit être 
+complétée avant de passer à la suivante. Les phases sont généralement conçues pour être séparées les unes des autres, et la 
+communication et la collaboration entre les équipes sont souvent limitées.
+
+En revanche, les méthodologies agiles mettent l'accent sur la collaboration, l'adaptation et l'itération. Les équipes agiles 
+travaillent en étroite collaboration, communiquent fréquemment et s'adaptent aux changements tout au long du processus de 
+développement. Les méthodologies agiles visent à livrer des fonctionnalités fonctionnelles rapidement et à recevoir des 
+commentaires réguliers des utilisateurs, ce qui permet aux équipes de s'adapter aux changements de priorités et d'exigences 
+tout au long du projet.
